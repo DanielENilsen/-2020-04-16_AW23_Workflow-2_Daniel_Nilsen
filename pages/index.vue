@@ -1,6 +1,7 @@
 <template>
   <div class="container">
   <h1>Daniel</h1>
+  <h1> newStuff </h1>
    
   
   </div>
